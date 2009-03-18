@@ -8,3 +8,5 @@ __DATA__
 Tokuhiro Matsuno
 tokuhirom @*(#RJKLFHFSDLJF gmail.com
 HTML::CSSInliner
+CPAN
+DoCoMo

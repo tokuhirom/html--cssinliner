@@ -2,7 +2,7 @@ use inc::Module::Install;
 name 'HTML-CSSInliner';
 all_from 'lib/HTML/CSSInliner.pm';
 
-# requires '';
+requires 'CSS::Tiny' => 1.15;
 
 tests 't/*.t';
 author_tests 'xt';
