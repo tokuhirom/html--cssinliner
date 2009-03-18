@@ -55,6 +55,10 @@ HTML::DoCoMoCSS は、肝要なポリシーにしたがって実装されてお�
     - hr タグおよび .Foo の2種類のタグのみをサポートする
     - 正規表現で実現する(はずれても泣かない)
 
+=head1 REPOSITORY
+
+http://github.com/tokuhirom/html--cssinliner/tree/master
+
 =head1 AUTHOR
 
 Tokuhiro Matsuno E<lt>tokuhirom @*(#RJKLFHFSDLJF gmail.comE<gt>
